@@ -1,0 +1,13 @@
+{
+    "display_name": "Regex ZIP Import/Export",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "dependencies": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "sillyjelly",
+    "version": "1.0.0",
+    "homePage": "https://github.com/sillyjelly/SillyTavern-RegexZip",
+    "auto_update": true
+}
