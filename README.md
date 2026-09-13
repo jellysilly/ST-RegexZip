@@ -11,7 +11,7 @@
 Extensions (кубик) → **Install extension** → вставить ссылку на этот репозиторий → Install.
 
 ```
-https://github.com/YOUR-GITHUB-USERNAME/SillyTavern-RegexZip
+https://github.com/sillyjelly/SillyTavern-RegexZip
 ```
 
 SillyTavern клонирует репозиторий в `data/<ваш-профиль>/extensions/SillyTavern-RegexZip/`. Кнопка обновления в списке расширений после этого работает — обновления подтягиваются из репозитория (`auto_update` включён в манифесте).
